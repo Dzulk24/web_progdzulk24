@@ -1,0 +1,27 @@
+/* Custom CSS */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+  background-color: #168178;
+  color: white;
+}
+
+.hero-section h1 {
+  font-weight: bold;
+}
+
+.main-content {
+  background-color: #f8f9fa;
+}
+
+.main-content h2 {
+  color: #4a647f;
+  margin-bottom: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+  background-color: #4e6985;
+}
